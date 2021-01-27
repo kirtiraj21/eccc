@@ -1,0 +1,240 @@
+
+
+.theme-orange #left-sidebar .user-account .dropdown-menu {
+    background: #fff;
+}
+
+.theme-orange .sidebar-nav .metismenu a {
+    color: #000;
+}
+
+.theme-orange .sidebar-nav .metismenu a:hover, .theme-orange .sidebar-nav .metismenu a:focus {
+    background: #62eb69;
+    color: #fff;
+}
+
+.theme-orange #left-sidebar .user-account .dropdown-menu a {
+    color: #0e4935 !important;
+    font-weight: 600;
+}
+
+.theme-orange #left-sidebar .user-account .dropdown-menu a:hover {
+    color: #62eb69 !important;
+}
+
+.theme-orange #left-sidebar .user-account .dropdown-menu a:hover i {
+    color: #62eb69 !important;
+}
+
+.user-account .user-name {
+    color: #0e4410 !important;
+}
+
+.font-14, .user-account .dropdown .dropdown-menu a, .user-account .dropdown .dropdown-menu a i, .sidebar-nav .metismenu a, .panel-group .panel .panel-title, .ct-label {
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.btn-primary{
+     background: #62eb69 !important;
+    color: #fff !important;
+    border-color: #62eb69 !important;
+}
+
+.breadcrumb-item a{
+    color: #62eb69 !important;
+}
+
+td a{
+    color: #62eb69 !important ;
+}
+
+td a i{font-weight: 600 !important; color: #158e1c !important;}
+
+td .btn-default{
+    background: #62eb6936 !important;
+    border-color: #62eb6936 !important;
+}
+
+.page-item.active .page-link{
+    font-weight: 700;
+    z-index: 3;
+    color: #fff;
+    background-color: #62eb69;
+    border-color: #62eb69;
+}
+
+.pagination>.active>a:hover, .pagination>.active>span:hover, .pagination>.active>a:focus, .pagination>.active>span:focus {
+    background-color: #c4f7c5 !important;
+    border-color: #c4f7c5 !important;
+    color: #000 !important;
+}
+
+td .shipped{
+    color: #126516;
+    font-weight: 700;
+    margin: 0;
+}
+
+.order-table td p{
+    margin: 0px 0px 8px;
+}
+
+.order-table td img {
+    width: 100%;
+    max-width: 85px;
+}
+
+.order-table tbody tr td, .order-table tbody th td {
+    vertical-align: top;
+}
+
+.color-order{
+    color: #62EB69;
+    font-weight: 600;
+    margin: 0;
+}
+
+.order-body p{
+    margin: 5px 0;
+}
+
+.order-body p img {
+    width: 100%;
+    max-width: 85px;
+}
+
+.color-order{
+    color: #0e4410;
+    font-weight: 600;
+    margin: 0;
+}
+
+.order-body .col-lg-4{
+    margin: 0px 0 30px;
+}
+
+.order-body label{
+    margin: 0;
+    color: #000;
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.order-header{
+    background: #62eb6936 !important;
+}
+
+.order-header h5 {
+    color: #0e4410;
+    font-weight: 600;
+}
+
+.table-body {
+    padding: 20px 0 !important;
+}
+
+
+.total-card{
+    padding: 20px 20px;
+    border-top: 1px dashed #62eb69;
+    width: 220px;
+    margin-left: auto;
+    display: block;
+    margin-right: 35px;
+}
+
+.total-card .table td{border: none;}
+
+
+
+/*//////// progressstep bar css ///////////*/
+
+
+/* ///////////////// */
+
+.stepbar{
+    width: 100%;
+    display: block;
+    position: relative;
+    text-align: right;
+    padding-right: 20px;
+}
+
+.first_step, .second_step{
+    border-radius: 50%;
+    border: 2px solid #7d7d7d;
+    width: 45px;
+    height: 45px;
+    padding: 5px 0px;
+    display: inline-block;
+    text-align: center;
+    position: relative;
+    font-size: 20px;
+}
+
+.first_step {
+    margin-right: 70px;
+    border-color: #55b776;
+    color: #55b776;
+}
+.second_step {
+    margin-left: 25px;
+}
+
+.stepbar::before{
+    position: absolute;
+    background: #55b776;
+    width: 102px;
+    height: 2px;
+    content: "";
+    right: 64px;
+    top: 21px;
+    z-index: 0;
+}
+
+.stepbar .active{
+    border-color: #55b776;
+    color: #55b776;
+}
+
+.change_Status {
+    text-align: left;
+    margin-right: 50px;
+    display: block;
+    margin-top: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

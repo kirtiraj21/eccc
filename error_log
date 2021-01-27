@@ -1,0 +1,127 @@
+[23-Sep-2020 12:16:47 UTC] PHP Fatal error:  Cannot redeclare Main::reset_password() in /home/dhl0k1vtlwo5/public_html/yacht/application/controllers/Main.php on line 398
+[11-Dec-2020 01:02:50 America/New_York] PHP Fatal error:  Call to undefined function find_in_set() in /home/mobiwved/public_html/ecom/application/controllers/api/R1.php on line 426
+[14-Dec-2020 04:13:57 America/New_York] PHP Fatal error:  Call to a member function insert() on null in /home/mobiwved/public_html/ecom/application/controllers/api/R1.php on line 718
+[16-Dec-2020 02:09:33 America/New_York] PHP Fatal error:  Function name must be a string in /home/mobiwved/public_html/ecom/application/controllers/api/R1.php on line 1179
+[16-Dec-2020 02:55:11 America/New_York] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/mobiwved/public_html/ecom/application/models/admin/Home_model.php on line 28
+[16-Dec-2020 02:55:16 America/New_York] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/mobiwved/public_html/ecom/application/models/admin/Home_model.php on line 28
+[16-Dec-2020 02:55:32 America/New_York] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/mobiwved/public_html/ecom/application/models/admin/Home_model.php on line 28
+[16-Dec-2020 02:55:43 America/New_York] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/mobiwved/public_html/ecom/application/models/admin/Home_model.php on line 28
+[16-Dec-2020 03:46:01 America/New_York] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::wherein() in /home/mobiwved/public_html/ecom/application/models/admin/Home_model.php on line 28
+[17-Dec-2020 05:00:50 America/New_York] PHP Fatal error:  Cannot redeclare Order::delete() in /home/mobiwved/public_html/ecom/application/controllers/admin/Order.php on line 57
+[17-Dec-2020 05:03:04 America/New_York] PHP Fatal error:  Call to undefined method CI_URI::segement() in /home/mobiwved/public_html/ecom/application/controllers/admin/Order.php on line 58
+[17-Dec-2020 05:04:26 America/New_York] PHP Fatal error:  Call to undefined method CI_URI::segement() in /home/mobiwved/public_html/ecom/application/controllers/admin/Order.php on line 58
+[17-Dec-2020 05:05:27 America/New_York] PHP Fatal error:  Call to undefined method CI_URI::segement() in /home/mobiwved/public_html/ecom/application/controllers/admin/Order.php on line 58
+[17-Dec-2020 05:06:40 America/New_York] PHP Fatal error:  Call to undefined method CI_URI::segement() in /home/mobiwved/public_html/ecom/application/controllers/admin/Order.php on line 58
+[17-Dec-2020 05:07:20 America/New_York] PHP Fatal error:  Call to undefined method CI_URI::segement() in /home/mobiwved/public_html/ecom/application/controllers/admin/Order.php on line 62
+[18-Dec-2020 11:38:10 Asia/Calcutta] PHP Fatal error:  Call to undefined method Home_model::cartdetail() in /home/mobiwved/public_html/ecom/application/controllers/api/R1.php on line 981
+[18-Dec-2020 11:40:32 Asia/Calcutta] PHP Fatal error:  Call to undefined method Home_model::cartdetail() in /home/mobiwved/public_html/ecom/application/controllers/api/R1.php on line 980
+[18-Dec-2020 06:53:47 America/New_York] PHP Fatal error:  Call to undefined method CI_Loader::uri_segment() in /home/mobiwved/public_html/ecom/application/views/Yikooo/header.php on line 77
+[18-Dec-2020 06:53:56 America/New_York] PHP Fatal error:  Call to undefined method CI_Loader::uri_segment() in /home/mobiwved/public_html/ecom/application/views/Yikooo/header.php on line 77
+[18-Dec-2020 06:54:48 America/New_York] PHP Fatal error:  Call to undefined method CI_Loader::uri_segment() in /home/mobiwved/public_html/ecom/application/views/Yikooo/header.php on line 77
+[18-Dec-2020 06:58:02 America/New_York] PHP Fatal error:  Call to undefined method CI_Loader::uri_segment() in /home/mobiwved/public_html/ecom/application/views/Yikooo/header.php on line 77
+[18-Dec-2020 06:58:27 America/New_York] PHP Fatal error:  Call to undefined method CI_Loader::uri_segment() in /home/mobiwved/public_html/ecom/application/views/Yikooo/header.php on line 77
+[18-Dec-2020 06:59:02 America/New_York] PHP Fatal error:  Call to undefined method CI_Loader::uri_segment() in /home/mobiwved/public_html/ecom/application/views/Yikooo/header.php on line 77
+[18-Dec-2020 06:59:02 America/New_York] PHP Fatal error:  Call to undefined method CI_Loader::uri_segment() in /home/mobiwved/public_html/ecom/application/views/Yikooo/header.php on line 77
+[18-Dec-2020 07:31:34 America/New_York] PHP Fatal error:  Call to a member function wheredata() on null in /home/mobiwved/public_html/ecom/application/views/Yikooo/index.php on line 119
+[19-Dec-2020 00:00:42 America/New_York] PHP Fatal error:  Call to a member function get_authors() on null in /home/mobiwved/public_html/ecom/application/controllers/website/Product.php on line 31
+[19-Dec-2020 01:40:21 America/New_York] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::count() in /home/mobiwved/public_html/ecom/application/views/Yikooo/shop.php on line 215
+[19-Dec-2020 01:41:36 America/New_York] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::num_rows() in /home/mobiwved/public_html/ecom/application/views/Yikooo/shop.php on line 215
+[19-Dec-2020 07:17:54 America/New_York] PHP Fatal error:  Call to undefined method Home_model::prod_detail() in /home/mobiwved/public_html/ecom/application/controllers/website/Product.php on line 123
+[21-Dec-2020 02:26:57 America/New_York] PHP Fatal error:  Call to a member function get_single_row() on null in /home/mobiwved/public_html/ecom/application/controllers/website/Login.php on line 38
+[21-Dec-2020 02:56:22 America/New_York] PHP Fatal error:  Call to a member function get_single_row() on null in /home/mobiwved/public_html/ecom/application/controllers/website/Login.php on line 140
+[21-Dec-2020 04:24:53 America/New_York] PHP Fatal error:  Cannot redeclare Account::index() in /home/mobiwved/public_html/ecom/application/controllers/website/Account.php on line 29
+[22-Dec-2020 01:50:26 America/New_York] PHP Parse error:  syntax error, unexpected '{' in /home/mobiwved/public_html/ecom/application/models/admin/Home_model.php on line 117
+[22-Dec-2020 02:13:06 America/New_York] PHP Fatal error:  Call to a member function get_single_row() on null in /home/mobiwved/public_html/ecom/application/views/Yikooo/cart.php on line 46
+[22-Dec-2020 02:20:33 America/New_York] PHP Fatal error:  Call to undefined method Home_model::get_order_detail() in /home/mobiwved/public_html/ecom/application/controllers/website/Cart.php on line 26
+[22-Dec-2020 04:35:36 America/New_York] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/mobiwved/public_html/ecom/application/controllers/website/Cart.php on line 102
+[22-Dec-2020 04:51:17 America/New_York] PHP Fatal error:  Call to a member function get_single_row() on null in /home/mobiwved/public_html/ecom/application/views/Yikooo/shop.php on line 83
+[22-Dec-2020 04:51:53 America/New_York] PHP Fatal error:  Call to a member function get_single_row() on null in /home/mobiwved/public_html/ecom/application/views/Yikooo/shop.php on line 83
+[22-Dec-2020 04:52:19 America/New_York] PHP Fatal error:  Call to a member function get_single_row() on null in /home/mobiwved/public_html/ecom/application/views/Yikooo/shop.php on line 83
+[22-Dec-2020 04:52:33 America/New_York] PHP Fatal error:  Call to a member function get_single_row() on null in /home/mobiwved/public_html/ecom/application/views/Yikooo/shop.php on line 83
+[24-Dec-2020 01:31:00 America/New_York] PHP Fatal error:  Call to undefined function validation_error() in /home/mobiwved/public_html/Yikooo/application/views/Yikooo/address-edit.php on line 87
+[24-Dec-2020 01:31:35 America/New_York] PHP Fatal error:  Call to undefined function validation_error() in /home/mobiwved/public_html/Yikooo/application/views/Yikooo/address-edit.php on line 87
+[24-Dec-2020 01:32:19 America/New_York] PHP Fatal error:  Call to undefined function validation_error() in /home/mobiwved/public_html/Yikooo/application/views/Yikooo/address-edit.php on line 87
+[24-Dec-2020 02:31:29 America/New_York] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/mobiwved/public_html/Yikooo/application/controllers/website/Account.php on line 156
+[25-Dec-2020 13:26:14 Asia/Calcutta] PHP Fatal error:  Call to a member function delete_where() on null in /home/mobiwved/public_html/Yikooo/application/controllers/api/R1.php on line 1300
+[25-Dec-2020 13:29:19 Asia/Calcutta] PHP Fatal error:  Call to a member function delete_where() on null in /home/mobiwved/public_html/Yikooo/application/controllers/api/R1.php on line 1300
+[25-Dec-2020 13:30:13 Asia/Calcutta] PHP Fatal error:  Call to a member function delete_where() on null in /home/mobiwved/public_html/Yikooo/application/controllers/api/R1.php on line 1300
+[25-Dec-2020 14:42:31 Asia/Calcutta] PHP Fatal error:  Call to a member function delete_where() on null in /home/mobiwved/public_html/Yikooo/application/controllers/api/R1.php on line 1300
+[25-Dec-2020 14:42:34 Asia/Calcutta] PHP Fatal error:  Call to a member function delete_where() on null in /home/mobiwved/public_html/Yikooo/application/controllers/api/R1.php on line 1300
+[28-Dec-2020 06:40:17 America/New_York] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/mobiwved/public_html/Yikooo/application/controllers/api/R1.php on line 238
+[28-Dec-2020 07:47:12 America/New_York] PHP Fatal error:  Call to undefined function form_error() in /home/mobiwved/public_html/Yikooo/application/views/admin/banner_add.php on line 35
+[28-Dec-2020 07:47:19 America/New_York] PHP Fatal error:  Call to undefined function form_error() in /home/mobiwved/public_html/Yikooo/application/views/admin/banner_add.php on line 35
+[28-Dec-2020 07:55:03 America/New_York] PHP Fatal error:  Call to undefined function form_error() in /home/mobiwved/public_html/Yikooo/application/views/admin/banner_add.php on line 35
+[28-Dec-2020 07:55:09 America/New_York] PHP Fatal error:  Call to undefined function form_error() in /home/mobiwved/public_html/Yikooo/application/views/admin/banner_add.php on line 35
+[28-Dec-2020 07:55:52 America/New_York] PHP Fatal error:  Call to undefined function validation_errors() in /home/mobiwved/public_html/Yikooo/application/views/admin/banner_add.php on line 35
+[28-Dec-2020 07:56:04 America/New_York] PHP Fatal error:  Call to undefined function validation_errors() in /home/mobiwved/public_html/Yikooo/application/views/admin/banner_add.php on line 35
+[28-Dec-2020 07:56:06 America/New_York] PHP Fatal error:  Call to undefined function validation_errors() in /home/mobiwved/public_html/Yikooo/application/views/admin/banner_add.php on line 35
+[28-Dec-2020 08:17:12 America/New_York] PHP Fatal error:  Call to undefined function validation_errors() in /home/mobiwved/public_html/Yikooo/application/views/admin/client_add.php on line 49
+[28-Dec-2020 08:18:35 America/New_York] PHP Fatal error:  Call to undefined function validation_errors() in /home/mobiwved/public_html/Yikooo/application/views/admin/client_add.php on line 49
+[28-Dec-2020 08:20:14 America/New_York] PHP Fatal error:  Call to undefined function validation_errors() in /home/mobiwved/public_html/Yikooo/application/views/admin/client_add.php on line 49
+[28-Dec-2020 08:26:07 America/New_York] PHP Fatal error:  Call to undefined function validation_errors() in /home/mobiwved/public_html/Yikooo/application/views/admin/client_add.php on line 49
+[29-Dec-2020 01:36:56 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/mobiwved/public_html/Yikooo/application/controllers/admin/Limited_time_banner.php on line 41
+[29-Dec-2020 02:31:09 America/New_York] PHP Fatal error:  Call to a member function set_rules() on null in /home/mobiwved/public_html/Yikooo/application/controllers/admin/Contact.php on line 56
+[29-Dec-2020 03:40:46 America/New_York] PHP Fatal error:  Call to undefined function validation_errors() in /home/mobiwved/public_html/Yikooo/application/views/admin/color_add.php on line 60
+[29-Dec-2020 03:45:16 America/New_York] PHP Fatal error:  Call to undefined function validation_errors() in /home/mobiwved/public_html/Yikooo/application/views/admin/product_add.php on line 181
+[30-Dec-2020 11:55:28 Asia/Calcutta] PHP Fatal error:  Call to undefined method Home_model::get_prod_desc() in /home/mobiwved/public_html/Yikooo/application/controllers/api/R1.php on line 668
+[30-Dec-2020 05:59:35 America/New_York] PHP Fatal error:  Call to a member function insert() on null in /home/mobiwved/public_html/Yikooo/application/controllers/website/Product.php on line 321
+[30-Dec-2020 10:41:42 America/New_York] PHP Fatal error:  Call to undefined function validation_errors() in /home/mobiwved/public_html/Yikooo/application/views/admin/category_add.php on line 49
+[30-Dec-2020 10:43:08 America/New_York] PHP Fatal error:  Call to undefined function validation_errors() in /home/mobiwved/public_html/Yikooo/application/views/admin/category_add.php on line 49
+[31-Dec-2020 01:55:53 America/New_York] PHP Fatal error:  Call to undefined function printr() in /home/mobiwved/public_html/Yikooo/application/views/Yikooo/product-detail.php on line 158
+[31-Dec-2020 03:41:05 America/New_York] PHP Fatal error:  Cannot redeclare Account::myorders() in /home/mobiwved/public_html/Yikooo/application/controllers/website/Account.php on line 256
+[31-Dec-2020 07:18:14 America/New_York] PHP Fatal error:  Call to undefined function base_64encode() in /home/mobiwved/public_html/Yikooo/application/views/Yikooo/order-history.php on line 129
+[31-Dec-2020 08:50:53 America/New_York] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) or '$' in /home/mobiwved/public_html/Yikooo/application/views/Yikooo/shop.php on line 119
+[31-Dec-2020 08:51:41 America/New_York] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) or '$' in /home/mobiwved/public_html/Yikooo/application/views/Yikooo/shop.php on line 119
+[31-Dec-2020 08:51:52 America/New_York] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) or '$' in /home/mobiwved/public_html/Yikooo/application/views/Yikooo/shop.php on line 119
+[31-Dec-2020 08:52:11 America/New_York] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) or '$' in /home/mobiwved/public_html/Yikooo/application/views/Yikooo/shop.php on line 119
+[31-Dec-2020 08:53:35 America/New_York] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) or '$' in /home/mobiwved/public_html/Yikooo/application/views/Yikooo/shop.php on line 119
+[04-Jan-2021 11:07:50 Asia/Calcutta] PHP Fatal error:  Call to a member function get_single_row() on null in /home/mobiwved/public_html/Yikooo/application/controllers/api/R1.php on line 2042
+[04-Jan-2021 01:15:31 America/New_York] PHP Fatal error:  Call to a member function wheredata() on null in /home/mobiwved/public_html/Yikooo/application/views/Yikooo/shop.php on line 88
+[04-Jan-2021 01:16:17 America/New_York] PHP Fatal error:  Call to a member function wheredata() on null in /home/mobiwved/public_html/Yikooo/application/views/Yikooo/shop.php on line 88
+[04-Jan-2021 01:16:24 America/New_York] PHP Fatal error:  Call to a member function wheredata() on null in /home/mobiwved/public_html/Yikooo/application/views/Yikooo/shop.php on line 88
+[04-Jan-2021 01:16:25 America/New_York] PHP Fatal error:  Call to a member function wheredata() on null in /home/mobiwved/public_html/Yikooo/application/views/Yikooo/shop.php on line 88
+[04-Jan-2021 01:16:28 America/New_York] PHP Fatal error:  Call to a member function wheredata() on null in /home/mobiwved/public_html/Yikooo/application/views/Yikooo/shop.php on line 88
+[04-Jan-2021 01:16:30 America/New_York] PHP Fatal error:  Call to a member function wheredata() on null in /home/mobiwved/public_html/Yikooo/application/views/Yikooo/shop.php on line 88
+[04-Jan-2021 01:17:47 America/New_York] PHP Fatal error:  Call to a member function wheredata() on null in /home/mobiwved/public_html/Yikooo/application/views/Yikooo/shop.php on line 88
+[04-Jan-2021 02:56:24 America/New_York] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/mobiwved/public_html/Yikooo/application/controllers/api/R1.php on line 1580
+[04-Jan-2021 02:56:35 America/New_York] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/mobiwved/public_html/Yikooo/application/controllers/api/R1.php on line 1580
+[04-Jan-2021 02:56:40 America/New_York] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/mobiwved/public_html/Yikooo/application/controllers/api/R1.php on line 1580
+[04-Jan-2021 02:56:43 America/New_York] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/mobiwved/public_html/Yikooo/application/controllers/api/R1.php on line 1580
+[04-Jan-2021 02:56:47 America/New_York] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/mobiwved/public_html/Yikooo/application/controllers/api/R1.php on line 1580
+[04-Jan-2021 02:57:00 America/New_York] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/mobiwved/public_html/Yikooo/application/controllers/api/R1.php on line 1579
+[04-Jan-2021 02:57:00 America/New_York] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/mobiwved/public_html/Yikooo/application/controllers/api/R1.php on line 1579
+[04-Jan-2021 13:27:19 Asia/Calcutta] PHP Fatal error:  Call to a member function wheredata() on null in /home/mobiwved/public_html/Yikooo/application/controllers/api/R1.php on line 1512
+[04-Jan-2021 18:56:52 Asia/Kolkata] PHP Fatal error:  Call to a member function get_single_row() on null in /home/mobiwved/public_html/Yikooo/application/controllers/website/Checkout.php on line 42
+[05-Jan-2021 00:05:38 America/New_York] PHP Fatal error:  Call to a member function insert() on null in /home/mobiwved/public_html/Yikooo/application/controllers/admin/Order.php on line 86
+[05-Jan-2021 00:10:23 America/New_York] PHP Fatal error:  Call to a member function insert() on null in /home/mobiwved/public_html/Yikooo/application/controllers/admin/Order.php on line 91
+[05-Jan-2021 12:36:37 Asia/Calcutta] PHP Fatal error:  Call to a member function get_single_row() on null in /home/mobiwved/public_html/Yikooo/application/controllers/api/R1.php on line 1229
+[05-Jan-2021 12:36:40 Asia/Calcutta] PHP Fatal error:  Call to a member function get_single_row() on null in /home/mobiwved/public_html/Yikooo/application/controllers/api/R1.php on line 1229
+[05-Jan-2021 12:36:45 Asia/Calcutta] PHP Fatal error:  Call to a member function get_single_row() on null in /home/mobiwved/public_html/Yikooo/application/controllers/api/R1.php on line 1229
+[05-Jan-2021 12:36:50 Asia/Calcutta] PHP Fatal error:  Call to a member function get_single_row() on null in /home/mobiwved/public_html/Yikooo/application/controllers/api/R1.php on line 1229
+[05-Jan-2021 12:39:27 Asia/Calcutta] PHP Fatal error:  Call to a member function get_single_row() on null in /home/mobiwved/public_html/Yikooo/application/controllers/api/R1.php on line 1229
+[05-Jan-2021 12:40:35 Asia/Calcutta] PHP Fatal error:  Call to a member function get_single_row() on null in /home/mobiwved/public_html/Yikooo/application/controllers/api/R1.php on line 1229
+[05-Jan-2021 12:41:20 Asia/Calcutta] PHP Fatal error:  Call to a member function get_single_row() on null in /home/mobiwved/public_html/Yikooo/application/controllers/api/R1.php on line 1229
+[05-Jan-2021 12:42:30 Asia/Calcutta] PHP Fatal error:  Call to a member function get_single_row() on null in /home/mobiwved/public_html/Yikooo/application/controllers/api/R1.php on line 1229
+[05-Jan-2021 12:44:47 Asia/Calcutta] PHP Fatal error:  Call to a member function get_single_row() on null in /home/mobiwved/public_html/Yikooo/application/controllers/api/R1.php on line 1229
+[05-Jan-2021 12:47:04 Asia/Calcutta] PHP Fatal error:  Call to a member function get_single_row() on null in /home/mobiwved/public_html/Yikooo/application/controllers/api/R1.php on line 1229
+[05-Jan-2021 12:48:54 Asia/Calcutta] PHP Fatal error:  Call to a member function get_single_row() on null in /home/mobiwved/public_html/Yikooo/application/controllers/api/R1.php on line 1229
+[05-Jan-2021 12:48:56 Asia/Calcutta] PHP Fatal error:  Call to a member function get_single_row() on null in /home/mobiwved/public_html/Yikooo/application/controllers/api/R1.php on line 1229
+[05-Jan-2021 02:19:22 America/New_York] PHP Fatal error:  Cannot redeclare R1::banner() in /home/mobiwved/public_html/Yikooo/application/controllers/api/R1.php on line 2146
+[05-Jan-2021 12:49:43 Asia/Calcutta] PHP Fatal error:  Call to a member function get_single_row() on null in /home/mobiwved/public_html/Yikooo/application/controllers/api/R1.php on line 1229
+[05-Jan-2021 12:50:24 Asia/Calcutta] PHP Fatal error:  Call to a member function get_single_row() on null in /home/mobiwved/public_html/Yikooo/application/controllers/api/R1.php on line 1229
+[05-Jan-2021 12:55:34 Asia/Calcutta] PHP Fatal error:  Call to a member function get_single_row() on null in /home/mobiwved/public_html/Yikooo/application/controllers/api/R1.php on line 1229
+[05-Jan-2021 03:35:39 America/New_York] PHP Parse error:  syntax error, unexpected '*' in /home/mobiwved/public_html/Yikooo/application/models/admin/Home_model.php on line 285
+[14-Jan-2021 06:05:59 America/New_York] PHP Fatal error:  Function name must be a string in /home/mobiwved/public_html/Yikooo/application/controllers/website/Product.php on line 96
+[14-Jan-2021 06:07:41 America/New_York] PHP Fatal error:  Function name must be a string in /home/mobiwved/public_html/Yikooo/application/controllers/website/Product.php on line 96
+[14-Jan-2021 06:08:38 America/New_York] PHP Fatal error:  Function name must be a string in /home/mobiwved/public_html/Yikooo/application/controllers/website/Product.php on line 96
+[14-Jan-2021 06:08:40 America/New_York] PHP Fatal error:  Function name must be a string in /home/mobiwved/public_html/Yikooo/application/controllers/website/Product.php on line 96
+[14-Jan-2021 06:08:42 America/New_York] PHP Fatal error:  Function name must be a string in /home/mobiwved/public_html/Yikooo/application/controllers/website/Product.php on line 96
+[14-Jan-2021 06:08:43 America/New_York] PHP Fatal error:  Function name must be a string in /home/mobiwved/public_html/Yikooo/application/controllers/website/Product.php on line 96
+[14-Jan-2021 06:08:44 America/New_York] PHP Fatal error:  Function name must be a string in /home/mobiwved/public_html/Yikooo/application/controllers/website/Product.php on line 96
+[14-Jan-2021 06:08:44 America/New_York] PHP Fatal error:  Function name must be a string in /home/mobiwved/public_html/Yikooo/application/controllers/website/Product.php on line 96
+[14-Jan-2021 06:08:45 America/New_York] PHP Fatal error:  Function name must be a string in /home/mobiwved/public_html/Yikooo/application/controllers/website/Product.php on line 96
+[14-Jan-2021 06:15:32 America/New_York] PHP Fatal error:  Function name must be a string in /home/mobiwved/public_html/Yikooo/application/controllers/website/Product.php on line 96
+[14-Jan-2021 06:15:35 America/New_York] PHP Fatal error:  Function name must be a string in /home/mobiwved/public_html/Yikooo/application/controllers/website/Product.php on line 96
+[16-Jan-2021 02:04:08 America/New_York] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/mobiwved/public_html/Yikooo/application/views/admin/sub_category_add.php on line 49
+[16-Jan-2021 02:04:15 America/New_York] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/mobiwved/public_html/Yikooo/application/views/admin/sub_category_add.php on line 49
+[16-Jan-2021 15:49:53 Asia/Kolkata] PHP Fatal error:  Call to a member function set_rules() on null in /home/mobiwved/public_html/Yikooo/application/controllers/admin/Order.php on line 93
